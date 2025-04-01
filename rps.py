@@ -3,7 +3,7 @@
 #   https://realpython.com/python-rock-paper-scissors/
 import random
 
-while True: #keep playing until the user decides to stop
+while True: #keep playing until the user decides to stop #making a change to commit
 user_action = input("Enter throw (rock, paper, scissors) or 'quit' to stop: ").lower()
 
     if user_action == "quit":
